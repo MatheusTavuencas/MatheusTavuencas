@@ -1,4 +1,3 @@
-<img width="4096" height="1050" alt="senai" src="https://github.com/user-attachments/assets/171bfe12-f617-4e62-add8-7e3601062162" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f0000,100:e53935&height=220&section=header&text=Matheus%20Tavuencas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Systems%20Development%20Student%20%40%20SENAI&descAlignY=60&descSize=20&animation=fadeIn" alt="Matheus Tavuencas banner" />
@@ -9,9 +8,20 @@
 
 <br/><br/>
 
-<img src="assets/senai.jpeg" alt="SENAI" height="45" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="<img width="4096" height="1050" alt="image" src="https://github.com/user-attachments/assets/8211947b-64de-4a77-8f0c-8bd6996b1993" />
+" alt="SENAI" height="50" />
+    </td>
+    <td>
+      <b>Systems Development Student</b><br/>
+      SENAI · São Paulo, Brazil 🇧🇷
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Brazil-009C3B?style=for-the-badge" alt="Brazil" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D-S%C3%A3o%20Paulo-B71C1C?style=for-the-badge" alt="São Paulo" />
@@ -22,17 +32,11 @@
 
 </div>
 
-
-
-<h1 align="center">Hi there! My name is Matheus 👋</h1>
-
-<p align="center">
-  <i>Systems Development student at SENAI, learning by doing, one commit at a time.</i>
-</p>
-
 ---
 
 ## 🧠 About me
+
+I'm currently studying **Systems Development at SENAI** (Brazil's National Service for Industrial Training), where I'm building my foundation in programming and software development.
 
 I'm the kind of person who isn't satisfied just seeing a website work: I want to know **why** it works. That curiosity is what brought me into programming, and it's what keeps me going.
 
@@ -51,7 +55,7 @@ I'm still at the beginning of my journey (and in no rush), but I've already lear
 ## 🚀 What you'll find here
 
 - 🧪 Exercises and experiments (some of them messy, and that's okay!)
-- 🛠️ Small projects built while studying
+- 🛠️ Small projects built while studying at SENAI
 - 📈 Projects that are gradually getting more complete
 
 This is a space to **experiment without fear**. If the code is here, it's because I learned something by building it.
@@ -68,11 +72,14 @@ This is a space to **experiment without fear**. If the code is here, it's becaus
 Just starting out too? Got a tip, feedback, or want to swap experiences? Feel free to open an issue, comment on my projects, or reach out here. Learning together is so much better.
 
 <!-- Add your links if you'd like:
-📧 Email: @matheus.g.barros6@edu.senai.br
+📫 LinkedIn: [your-link]
+📧 Email: your@email.com
 -->
 
----
+<div align="center">
 
-<p align="center">
-  <i>One step at a time, one project at a time. 🚀</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e53935,100:7f0000&height=100&section=footer" alt="footer" />
+
+<i>One step at a time, one project at a time. 🚀</i>
+
+</div>

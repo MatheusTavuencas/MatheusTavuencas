@@ -1,53 +1,52 @@
-<h1 align="center">E aí! 👋 Eu sou o Tavuencas</h1>
+<h1 align="center">Hi there! My name is Matheus 👋</h1>
 
 <p align="center">
-  <i>Estudante de Desenvolvimento de Sistemas, aprendendo na prática e um commit de cada vez.</i>
+  <i>Systems Development student, learning by doing, one commit at a time.</i>
 </p>
 
 ---
 
-## 🧠 Quem sou eu
+## 🧠 About me
 
-Sou aquele tipo de pessoa que não se contenta em ver o site funcionando: quero saber **por que** ele funciona. Foi essa curiosidade que me trouxe pra programação e é ela que me faz continuar.
+I'm the kind of person who isn't satisfied just seeing a website work: I want to know **why** it works. That curiosity is what brought me into programming, and it's what keeps me going.
 
-Ainda estou no começo da jornada (e sem pressa), mas já aprendi que errar, debugar e tentar de novo faz parte do processo. Este perfil é o meu diário de bordo: aqui eu guardo o que estudo, o que construo e o quanto já evoluí.
+I'm still at the beginning of my journey (and in no rush), but I've already learned that making mistakes, debugging, and trying again is part of the process. This profile is my logbook: it's where I keep what I study, what I build, and how far I've come.
 
-## 💻 O que estou estudando
+## 💻 What I'm studying
 
-| Tecnologia | Pra que estou usando |
+| Technology | What I'm using it for |
 |---|---|
-| **HTML & CSS** | Construir e estilizar páginas web |
-| **JavaScript** | Dar vida e interatividade aos sites |
-| **Python** | Treinar lógica de programação |
-| **MySQL** | Entender como os dados são guardados e organizados |
-| **Git & GitHub** | Versionar e organizar meus projetos |
+| **HTML & CSS** | Building and styling web pages |
+| **JavaScript** | Bringing websites to life with interactivity |
+| **Python** | Practicing programming logic |
+| **MySQL** | Understanding how data is stored and organized |
+| **Git & GitHub** | Versioning and organizing my projects |
 
-## 🚀 O que você vai encontrar por aqui
+## 🚀 What you'll find here
 
-- 🧪 Exercícios e testes (alguns bem bagunçados, e tudo bem!)
-- 🛠️ Pequenos projetos feitos durante os estudos
-- 📈 Projetos que, aos poucos, vão ficando mais completos
+- 🧪 Exercises and experiments (some of them messy, and that's okay!)
+- 🛠️ Small projects built while studying
+- 📈 Projects that are gradually getting more complete
 
-Esse é um espaço pra **experimentar sem medo**. Se o código está aqui, é porque eu aprendi alguma coisa fazendo ele.
+This is a space to **experiment without fear**. If the code is here, it's because I learned something by building it.
 
-## 🎯 Para onde estou indo
+## 🎯 Where I'm headed
 
-- [ ] Afiar minha lógica de programação
-- [ ] Criar meus próprios sites e aplicações
-- [ ] Aprender novas tecnologias no meu ritmo
-- [ ] Montar um portfólio com projetos reais
+- [ ] Sharpen my programming logic
+- [ ] Build my own websites and applications
+- [ ] Learn new technologies at my own pace
+- [ ] Put together a portfolio with real projects
 
-## 🤝 Vamos trocar uma ideia?
+## 🤝 Let's chat!
 
-Está começando também? Tem dica, feedback ou quer trocar experiências? Fica à vontade pra abrir uma issue, comentar nos meus projetos ou me chamar por aqui. Aprender junto é bem melhor.
+Just starting out too? Got a tip, feedback, or want to swap experiences? Feel free to open an issue, comment on my projects, or reach out here. Learning together is so much better.
 
-<!-- Se quiser, adicione seus links:
-📫 LinkedIn: [seu-link]
-📧 E-mail: seu@email.com
+<!-- Add your links if you'd like:
+📧 Email: @matheus.g.barros6@edu.senai.br
 -->
 
 ---
 
 <p align="center">
-  <i>Um passo de cada vez, um projeto de cada vez. 🚀</i>
+  <i>One step at a time, one project at a time. 🚀</i>
 </p>

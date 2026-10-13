@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="<img width="4096" height="1050" alt="image" src="https://github.com/user-attachments/assets/8211947b-64de-4a77-8f0c-8bd6996b1993" />
+      <img src="<img width="4096" height="1050" alt="senai" src="https://github.com/user-attachments/assets/5f1e2c26-c99f-4d64-b924-c62e50b8348d" />
 " alt="SENAI" height="50" />
     </td>
     <td>

@@ -1,3 +1,4 @@
+<img width="4096" height="1050" alt="senai" src="https://github.com/user-attachments/assets/171bfe12-f617-4e62-add8-7e3601062162" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f0000,100:e53935&height=220&section=header&text=Matheus%20Tavuencas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Systems%20Development%20Student%20%40%20SENAI&descAlignY=60&descSize=20&animation=fadeIn" alt="Matheus Tavuencas banner" />

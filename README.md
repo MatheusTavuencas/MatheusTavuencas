@@ -1,82 +1,53 @@
-# 👨‍💻 Tavuencas | Developer in Progress
+<h1 align="center">E aí! 👋 Eu sou o Tavuencas</h1>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Systems+Development+Student;Learning+by+Building;Turning+Ideas+into+Code](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Systems+Development+Student;Learning+by+Building;Turning+Ideas+into+Code)" alt="Typing SVG" />
-\</p>
-
-\<p align="center">
-&#x20; \<strong>Estudante de Desenvolvimento de Sistemas\</strong>
-\</p>
-
-\<p align="center">
-&#x20; Explorando tecnologia, aprendendo programação e transformando conhecimento em projetos práticos.
-\</p>
+<p align="center">
+  <i>Estudante de Desenvolvimento de Sistemas, aprendendo na prática e um commit de cada vez.</i>
+</p>
 
 ---
 
-## `> whoami`
+## 🧠 Quem sou eu
 
-🎓 Estudante de Desenvolvimento de Sistemas.
+Sou aquele tipo de pessoa que não se contenta em ver o site funcionando: quero saber **por que** ele funciona. Foi essa curiosidade que me trouxe pra programação e é ela que me faz continuar.
 
-💻 Aprendendo os fundamentos da programação e do desenvolvimento web.
+Ainda estou no começo da jornada (e sem pressa), mas já aprendi que errar, debugar e tentar de novo faz parte do processo. Este perfil é o meu diário de bordo: aqui eu guardo o que estudo, o que construo e o quanto já evoluí.
 
-🧠 Interessado em tecnologia, inovação e resolução de problemas.
+## 💻 O que estou estudando
 
-🚀 Meu objetivo é evoluir por meio de estudos consistentes e projetos reais.
+| Tecnologia | Pra que estou usando |
+|---|---|
+| **HTML & CSS** | Construir e estilizar páginas web |
+| **JavaScript** | Dar vida e interatividade aos sites |
+| **Python** | Treinar lógica de programação |
+| **MySQL** | Entender como os dados são guardados e organizados |
+| **Git & GitHub** | Versionar e organizar meus projetos |
 
----
+## 🚀 O que você vai encontrar por aqui
 
-## `> technologies`
+- 🧪 Exercícios e testes (alguns bem bagunçados, e tudo bem!)
+- 🛠️ Pequenos projetos feitos durante os estudos
+- 📈 Projetos que, aos poucos, vão ficando mais completos
 
-Tecnologias que estou estudando:
+Esse é um espaço pra **experimentar sem medo**. Se o código está aqui, é porque eu aprendi alguma coisa fazendo ele.
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F7FF](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=00F7FF)" alt="HTML5" />
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F7FF](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=00F7FF)" alt="CSS3" />
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7FF](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=00F7FF)" alt="JavaScript" />
-&#x20; \<img src="[https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=00F7FF)" alt="Python" />
-&#x20; \<img src="[https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7FF](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=00F7FF)" alt="MySQL" />
-&#x20; \<img src="[https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F7FF](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=00F7FF)" alt="Git" />
-\</p>
+## 🎯 Para onde estou indo
 
----
+- [ ] Afiar minha lógica de programação
+- [ ] Criar meus próprios sites e aplicações
+- [ ] Aprender novas tecnologias no meu ritmo
+- [ ] Montar um portfólio com projetos reais
 
-## `> current_focus`
+## 🤝 Vamos trocar uma ideia?
 
-- 📚 Fortalecendo minha lógica de programação.
-- 🌐 Desenvolvendo páginas com HTML e CSS.
-- ⚡ Estudando JavaScript e interatividade.
-- 🗄️ Aprendendo conceitos de bancos de dados.
-- 🛠️ Praticando com exercícios e pequenos projetos.
+Está começando também? Tem dica, feedback ou quer trocar experiências? Fica à vontade pra abrir uma issue, comentar nos meus projetos ou me chamar por aqui. Aprender junto é bem melhor.
 
----
-
-## `> repositories`
-
-📂 Neste perfil, compartilho meus exercícios, estudos e projetos desenvolvidos durante minha jornada na programação.
-
-Cada repositório representa uma oportunidade de aprender algo novo e melhorar minhas habilidades.
+<!-- Se quiser, adicione seus links:
+📫 LinkedIn: [seu-link]
+📧 E-mail: seu@email.com
+-->
 
 ---
 
-## `> future_goals`
-
-- [ ] Construir projetos web completos.
-- [ ] Desenvolver aplicações conectadas a bancos de dados.
-- [ ] Aprimorar minhas habilidades com Git e GitHub.
-- [ ] Criar projetos próprios para meu portfólio.
-- [ ] Evoluir continuamente como desenvolvedor.
-
----
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00F7FF?style=for-the-badge&labelColor=0D1117](https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00F7FF?style=for-the-badge\&labelColor=0D1117)" alt="Always learning" />
-\</p>
-
-\<p align="center">
-&#x20; \<i>"Every expert was once a beginner."\</i>
-\</p>
-
-\<p align="center">
-&#x20; \<sub>Estudando hoje. Construindo o amanhã.\</sub>
-\</p>
+<p align="center">
+  <i>Um passo de cada vez, um projeto de cada vez. 🚀</i>
+</p>

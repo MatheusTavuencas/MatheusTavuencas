@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=220&section=header&text=Matheus%20Tavuencas&fontSize=60&fontAlignY=38&desc=Systems%20Development%20Student%20%40%20SENAI&descAlignY=60&descSize=20&animation=fadeIn" alt="Matheus Tavuencas banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f0000,100:e53935&height=220&section=header&text=Matheus%20Tavuencas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Systems%20Development%20Student%20%40%20SENAI&descAlignY=60&descSize=20&animation=fadeIn" alt="Matheus Tavuencas banner" />
 
 <a href="https://github.com/Tavuencas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Learning+by+doing;One+commit+at+a+time;Turning+curiosity+into+code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5252&center=true&vCenter=true&width=520&lines=Learning+by+doing;One+commit+at+a+time;Turning+curiosity+into+code" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/SENAI-004B8D?style=for-the-badge&logoColor=white" alt="SENAI" />
-<img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Based%20in-Brazil-009C3B?style=for-the-badge" alt="Brazil" />
+<img src="assets/senai.jpeg" alt="SENAI" height="45" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Brazil-009C3B?style=for-the-badge" alt="Brazil" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-S%C3%A3o%20Paulo-B71C1C?style=for-the-badge" alt="São Paulo" />
 
 <br/><br/>
 

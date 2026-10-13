@@ -11,8 +11,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="<img width="4096" height="1050" alt="senai" src="https://github.com/user-attachments/assets/5f1e2c26-c99f-4d64-b924-c62e50b8348d" />
-" alt="SENAI" height="50" />
+      <img src=" width="4096" alt="senai" src="https://github.com/user-attachments/assets/98c1957b-d229-4edb-8e27-5e4f3ca8757a"" alt="SENAI" height="50" />
     </td>
     <td>
       <b>Systems Development Student</b><br/>
@@ -82,4 +81,4 @@ Just starting out too? Got a tip, feedback, or want to swap experiences? Feel fr
 
 <i>One step at a time, one project at a time. 🚀</i>
 
-</div>
+</div> />

@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! My name is Matheus 👋</h1>
 
 <p align="center">
-  <i>Systems Development student, learning by doing, one commit at a time.</i>
+  <i>Systems Development student at SENAI, learning by doing, one commit at a time.</i>
 </p>
 
 ---

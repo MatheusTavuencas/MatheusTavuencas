@@ -8,23 +8,9 @@
 
 <br/><br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="<img width="4096" height="1050" alt="senai jpeg" src="https://github.com/user-attachments/assets/80d37aa0-750d-4e43-8226-a87ce29d12bb" />
-" alt="SENAI" height="50" />
-    </td>
-    <td>
-      <b>Systems Development Student</b><br/>
-      SENAI · São Paulo, Brazil 🇧🇷
-    </td>
-  </tr>
-</table>
-
-<br/>
-
+<img src="https://img.shields.io/badge/SENAI-E30613?style=for-the-badge&labelColor=E30613&color=E30613" alt="SENAI" />
 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Brazil-009C3B?style=for-the-badge" alt="Brazil" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-S%C3%A3o%20Paulo-B71C1C?style=for-the-badge" alt="São Paulo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg" alt="São Paulo" height="28" />
 
 <br/><br/>
 
